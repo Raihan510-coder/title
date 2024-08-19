@@ -40,15 +40,18 @@
 }
 .bold{
     text-align: center;
-    /* margin-top: 80px; */
-    border: none;
-    background-color: #FFFFFF;
+    margin-top: 80px;
+    /* border: none; */
+    /* background-color: #FFFFFF; */
 }
 .time{
     width: 1140px;
-    height: 1393px;
-    background-color:#ADC8F7;
+    height: 1600px;
+    background-color:aliceblue;
     margin-left:650px;
+    border-radius: 16px;
+    margin-top: 75px;
+    border: #FFFFFF;
 }
 .clan{
     color: #0D1321;
@@ -63,7 +66,7 @@
     font-weight: 400;
     font-size: 16px;
     margin-top: 24px;
-    /* margin-bottom: 48px; */
+    margin-bottom: 48px;
 }
 /* .bd{ */
     /* text-align: center; */
@@ -82,14 +85,15 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 852px;
-    height: 200px;
+    width: 800pxpx;
+    height: 200pxpx;
     background-color:#FFFFFF;
     margin-left: 50px;
     padding:48px 48px 48px 48px ;
-    gap: 150px;
+    gap: auto;
     border: none;
     border-radius: 16px;
+
 
 }
 .alpha{
@@ -106,6 +110,8 @@
 }
 .div{
     margin-bottom: 32px;
+    /* height: 150px; */
+    /* width: 800px; */
 }
 .sec{
     margin-bottom: 32px;
@@ -115,4 +121,13 @@
    width: 1440px;
    height: 652px;
    margin: 0px auto;
+}
+.tom{
+       margin-top: 32px;
+}
+.bolder{
+    text-align: center;
+}
+.light{
+   padding: 80px 97px;
 }
