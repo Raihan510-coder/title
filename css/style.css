@@ -131,3 +131,154 @@
 .light{
    padding: 80px 97px;
 }
+.raw{
+    width: 1140px;
+    height: 775px;
+    margin: 0px auto;
+    margin-top: 90px;
+}
+.cat{
+    text-align: center;
+    color: #0D1321;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.bird{
+    text-align: center;
+    color: #0D1321;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+}
+.pop{
+   width: 1140px;
+   height: 614px;
+   border: black;
+   margin-top: 32px;
+}
+.h4{
+    text-align: center;
+    margin-top: 154px;
+    color: #0D1321;
+    font-weight: bolder;
+    font-size: 32px;
+}
+.p1{
+    text-align: center;
+    color: #0D1321;
+    font-weight: 400;
+    font-size:16px ;
+    margin-top: 24px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    border: none;
+    height: 600px;
+    width: 1150px;
+    margin: 0px auto;
+    background-color: whitesmoke;
+    margin-top: 48px;
+}
+.div2{
+    border: none;
+    border-radius: 16px;
+    height: 300px;
+    width: 365px;
+    background-color:#FFDAD9;
+   
+}
+h3{
+    margin-left: 20px;
+    margin-top: 24px;
+
+}
+.b2{
+    margin-left: 20px;
+}
+.img3{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.p2{
+    margin-top: 24PX;
+    margin-bottom: 24px;
+    margin-left: 20px;
+}
+.div4{
+    border: none;
+    border-radius: 16px;
+    height: 300px;
+    width: 365px;
+    background-color:#E7ECFF;
+   
+}
+.div5{
+    border: none;
+    border-radius: 16px;
+    height: 300px;
+    width: 365px;
+    background-color:blanchedalmond;
+   
+}
+.my{
+    border: none;
+    width: 1140px;
+    height: 749px;
+    background-color: #FFFFFF;
+    margin: 0px auto;
+    margin-top: 144px;
+}
+.finish{
+    width: 1140px;
+    height: 313px;
+    background-image: url("../assets/handshake.jpg");
+    margin:0px auto;
+    margin-top: 50px;
+    border-radius: 16px;
+}
+.h10{
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+   
+}
+.p5{
+    text-align: center;
+    margin-top: 16px;
+    color:#FFFFFF ;
+    font-size: 16px;
+    font-weight: 400;
+}
+.six{
+   height: 185px;
+   width: 1044px;
+  margin: 0% auto;
+  margin-top: 64px;
+
+}
+.b5{
+   margin-left: 500px;
+}
+.b6{
+    margin-left: 400px;
+}
+.last{
+    width: 1440px;
+    height: 100px;
+    margin: 0px auto;
+    margin-top: 76px;
+    background-color:#FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.final{
+    text-align: center;
+    color: #0D1321;
+    font-size: 20px;
+    font-weight: 700px;
+}
